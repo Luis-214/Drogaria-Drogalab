@@ -129,7 +129,7 @@ header {
   color: #fff;
   font-size: 18px;   
   font-weight: bold;
-  padding: 10px 20px;
+  padding: 12px 24px;
   border-radius: 8px;
   text-decoration: none;
   margin: 20px 0;
@@ -187,6 +187,7 @@ header {
     padding: 14px 22px;
   }
 }
+
 
 
 
