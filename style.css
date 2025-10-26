@@ -140,12 +140,6 @@ header {
   background-color: #1ebe5d;
 }
 
-.whatsapp-btn .icone {
-  width: 28px;  
-  height: 28px;
-  margin-right: 10px;
-}
-
 .telefone {
   margin-top: 10px;
   font-size: 18px;
@@ -193,4 +187,5 @@ header {
     padding: 14px 22px;
   }
 }
+
 
