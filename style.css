@@ -71,7 +71,7 @@ header {
 
 .carousel-track {
   display: flex;
-  animation: scroll 90s linear infinite;
+  animation: scroll 30s linear infinite;
 }
 
 .carousel img {
@@ -193,3 +193,4 @@ header {
     padding: 14px 22px;
   }
 }
+
